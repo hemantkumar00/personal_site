@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+h1{
+  font-size:5.625rem;
+  line-height: 2;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#80bdab;
+  font-size: 2.5rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#80bdab;
+}
+.top_containner{
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+
+}
+.my{
+  width: 200px;
+  border-radius: 100%;
+}
+.middle-containner{
+  margin: 100px
+
+}
+.bottom-container{
+    padding:  60px 50px 0 50px;
+    background-color: #66BFBF;
+
+}
+.web{
+  text-decoration: underline;
+}
+.cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+
+}
+.cloud1{
+  position: absolute;
+  right: 250px;
+  top: 150px;
+}
+.a1{
+  color: #11999E;
+}
+.text{
+  font-size: 1.5rem;
+}
+.job{
+  position: absolute;
+  width: 70px;
+  left:250px;
+  top:20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 0px auto ;
+}
+hr{
+  border-top: 5px dotted #EAF6F6;
+  width: 4%;
+  margin: 50px auto;
+}
+.basketball{
+
+  width:10%;
+  margin: 0 60px 0px 0px;
+  float: left;
+}
+.web1{
+  width:25%;
+  float: right;
+  margin: 30px 0 0 60px;
+}
+.footer-link{
+  color: #11999E;
+  margin:20px;
+  text-decoration: none;
+}
+.hello{
+  color: #EAF6F6;
+  font-size: 0.70rem;
+  padding: 20px 0;
+}
+.contact-me{
+  margin: 100px;
+}
+.btn{
+  background-color: #66BFBF;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.a3{
+  margin: 50px auto;
+  width: 50%;
+}
+a:hover{
+  color: #EAF6F6;
+}
